@@ -1,0 +1,116 @@
+.wdata tbody td {
+    padding: 0 3px;
+    text-align: center;
+}
+.wdata tbody th, .wdata tbody td {
+    border-top: 1px solid #b1d0e6;
+    border-bottom: 1px solid #b1d0e6;
+    color: #069;
+    font-size: 17px;
+    font-weight: bold;
+}
+table {
+    border-collapse: collapse;
+}
+.wsection {
+    padding-top: 20px;
+}
+.email_right {
+    display: block;
+    float: right;
+}
+.msg_h {
+    min-height: 100px;
+}
+.LogOut {
+    margin-top: 7px;
+    margin-right: 10px;
+}
+.user {
+    font-size: 20px;
+}
+.feedlist {
+    padding-bottom: 30px;
+}
+.w_z {
+    padding-top:  30px !important;
+}
+#map {
+    height: 450px;
+    width: 100%;
+}
+.lable_participate {
+    padding-bottom: 15px;
+}
+#form3{
+    display: none;
+}
+#form2{
+    display: none;
+}
+#form{
+
+    padding-bottom: 20px;
+}
+
+
+.fa {
+    margin-right: 30px;
+    font-size: 50px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none !important;
+    border-radius: 50%;
+
+}
+.fa-icons{
+    text-align: center;
+}
+.all-members {
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 80px;
+}
+
+
+.my-error-class {
+    color:#FF0000;  /* red */
+    font-size: 12px;
+
+}
+.my-valid-class {
+    color:#00CC00; /* green */
+}
+
+input.my-error-class {
+    border: solid 1px red;
+}
+span {
+    color: red;
+    font-size: 12px;
+}
+
+#email-span-2 {
+    display: none;
+    color: red;
+
+}
+.sh {
+    text-align: center;
+}
+
+.members-tittle {
+    padding-bottom: 15px;
+}
+td {
+    text-align: center;
+}
+
+.btn-next {
+    width: 75px;
+}
+
+
+.dropdown-menu {
+    text-align: center;
+}
