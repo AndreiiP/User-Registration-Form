@@ -1,8 +1,6 @@
-## структура проекта
-
+## Project Structures
     - sql
     - src  
-
 #### admin
-> Админка (login: admin@gmail.com  pass: admin)
+> Admin (login: admin@gmail.com  pass: admin)
               
